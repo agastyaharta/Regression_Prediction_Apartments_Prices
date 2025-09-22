@@ -2,7 +2,7 @@
 This project applies a range of **regression techniques** to predict apartment prices based on structural and categorical features of housing data - presummably within the area of Warsaw, Poland.
 
 ## Contributors 
-I Putu Agastya Harta Pratama 
+I Putu Agastya Harta Pratama   
 _Chi Phuong Dao (Working on other part of the project - Classification Models)_
 
 Warsaw, Poland  
