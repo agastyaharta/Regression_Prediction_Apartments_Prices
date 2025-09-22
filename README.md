@@ -3,6 +3,7 @@ This project applies a range of **regression techniques** to predict apartment p
 
 ## Contributors 
 I Putu Agastya Harta Pratama 
+_Chi Phuong Dao (Working on other part of the project - Classification Models)_
 
 Warsaw, Poland  
 2025 
